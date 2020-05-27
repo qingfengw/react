@@ -4,7 +4,7 @@ class App extends Component {
   render () {
     return (
       <ul className="my-list">
-        <li>{false?"谢一平":"毛倩"}</li>
+        <li>{false?"sddsa":"dsadasd"}</li>
       </ul>
     )
   }

@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Clock from './Clock'
+import Xiaojiejie from './Xiaojiejie'
 
 
-ReactDOM.render(<Clock/>,document.getElementById('root'))
+ReactDOM.render(<Xiaojiejie/>,document.getElementById('root'))
